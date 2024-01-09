@@ -1,5 +1,5 @@
-### Hi there 👋
 
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&border=true&theme=dark&quote=Wassup%20peeps&author=Lindsay%20Kerr,%202024)
 <!--
 **chixbv/chixbv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
